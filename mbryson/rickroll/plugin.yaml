@@ -1,0 +1,6 @@
+plugin:
+    name: 'mbryson.rickroll::lang.plugin.name'
+    description: 'mbryson.rickroll::lang.plugin.description'
+    author: Mbryson
+    icon: oc-icon-close
+    homepage: ''
